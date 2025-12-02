@@ -203,6 +203,7 @@ Relationships were built using foreign keys to ensure clean and accurate cross-t
 👤 **Contact / Credits**
 
 **Shakeeb Ahamed**  
+**AI Developer Intern**  
 **B.Sc (Hons) Financial Mathematics and Industrial Statistics – University of Ruhuna, Sri Lanka**  
 **Advanced Diploma in Data Science – NIBM, Sri Lanka**  
 **GitHub:** https://github.com/shaAhame  
@@ -210,10 +211,12 @@ Relationships were built using foreign keys to ensure clean and accurate cross-t
 ---
 
 **If you want, I can also add:**  
-  
+ 
 ⭐ **Table of Contents**  
-⭐ **Project Roadmap Section**    
-⭐ **Custom Banner Image**  
+⭐ **Project Roadmap Section**  
+⭐ **License Section**  
+
 
 Just say **“add enhancements”** and I will upgrade it fully.
+
 
