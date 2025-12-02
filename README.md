@@ -200,21 +200,20 @@ Relationships were built using foreign keys to ensure clean and accurate cross-t
 
 ---
 
-# 👤 Contact / Credits
+👤 **Contact / Credits**
 
-**Shakeeb Ahamed**
-**B.Sc (Hons) Financial Mathematics and Industrial Statistics – University of Ruhuna, Sri Lanka**
-**Advanced Diploma in Data Science – NIBM, Sri Lanka**
-GitHub: **[https://github.com/shaAhame](https://github.com/shaAhame)**
+**Shakeeb Ahamed**  
+**B.Sc (Hons) Financial Mathematics and Industrial Statistics – University of Ruhuna, Sri Lanka**  
+**Advanced Diploma in Data Science – NIBM, Sri Lanka**  
+**GitHub:** https://github.com/shaAhame  
 
 ---
 
-If you want, I can also add:
-
-⭐ Professional Tech Badges
-⭐ Table of Contents
-⭐ Project Roadmap Section
-⭐ License Section
-⭐ Custom Banner Image
+**If you want, I can also add:**  
+  
+⭐ **Table of Contents**  
+⭐ **Project Roadmap Section**    
+⭐ **Custom Banner Image**  
 
 Just say **“add enhancements”** and I will upgrade it fully.
+
